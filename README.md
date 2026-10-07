@@ -1,8 +1,8 @@
 # Hi, I'm Ben 👋
 
-### Computer Science Graduate | Software Development
+### Technical Support Engineer @ Flexera | Computer Science Graduate
 
-I'm a Computer Science graduate focused on building practical software and improving my development skills through hands-on projects.
+I'm a Technical Support Engineer at Flexera and a Computer Science graduate focused on building practical software and continuing to develop my programming skills.
 
 I'm currently rebuilding and expanding my Python skills while continuing to build on experience with JavaScript, C#, Unity and application architecture.
 
@@ -41,9 +41,15 @@ A Python CLI application using CSV persistence, input validation and structured 
 - Debugging and problem solving
 - Writing maintainable code
 
-## 📚 Background
+## 💼 Professional Background
 
-BSc (Hons) Computer Science graduate with previous experience in first-line support and network engineering. I'm interested in software development roles while keeping a strong connection to practical IT and technical problem solving.
+Currently working as a **Technical Support Engineer at Flexera**, building on previous experience in first-line support and network engineering.
+
+Alongside my professional IT experience, I maintain a strong interest in software development and enjoy using personal projects to keep developing my programming skills.
+
+## 📚 Education
+
+**BSc (Hons) Computer Science**
 
 ## 📫 Contact
 
